@@ -1,5 +1,5 @@
 // code adapted from https://www.geeksforgeeks.org/printing-paths-dijkstras-shortest-path-algorithm/
-// modified by Andrew Plowman, Stephen Linn and trae
+// modified by Andrew Plowman, Stephen Linn and Jesse White
 //
 #include "Dij.h"
 #include <stdio.h>
